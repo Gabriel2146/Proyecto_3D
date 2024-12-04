@@ -2,7 +2,7 @@
 
 ## Descripción
 
-**Proyecto 3D en Unity** es un videojuego en primera persona (FPS) que combina mecánicas de captura la bandera y transformación. Los jugadores pueden transformarse en objetos para evitar ser detectados por los enemigos y trabajar en equipo para capturar la bandera del adversario. El juego utiliza gráficos **low-poly** para mantener un estilo visual retro y optimizado.
+**Proyecto 3D en Unity** es un videojuego en Tercera persona (TPS) que combina mecánicas de captura la bandera y transformación. Los jugadores pueden transformarse en objetos para evitar ser detectados por los enemigos y trabajar en equipo para capturar la bandera del adversario. El juego utiliza gráficos **low-poly** para mantener un estilo visual retro y optimizado.
 
 ---
 
